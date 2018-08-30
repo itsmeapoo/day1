@@ -1,0 +1,28 @@
+DAY 1
+
+1]
+#include<stdio.h>
+void main()
+{
+    printf("hello world");
+    
+}
+
+2]
+#include<stdio.h>
+void main()
+{
+    printf("APOORVA");
+}
+
+
+#include<stdio.h> 
+Here include is the command to include something in it. And stdio it means its the standard input and output. And .h is an extension.
+
+Printf is a command of standard input and output to print the statements within ” “
+
+Main is a function ,it is called by the user while executing a program.
+
+By touch typing it can actually save our time . And also it can reduce our mental fatigue thereby we can gain success in our workplace.
+
+Firstly patience is most important while typing. We must take our own time to type to avoid spelling mistakes. Speed up when we are confident of typing the right words.
