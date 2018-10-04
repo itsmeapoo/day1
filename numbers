@@ -10,46 +10,5 @@ int main()
     return 0;
 }
 
-2.
-#include<stdio.h> is header file which includes the standard input and output statements into main().and .h is an extension of the library function. # is the preprocessor or command used in the header file.  stdio is a library function which includes the scanf and printf statements in it. 
 
-3.
-Printf is an execution input and output statement used to display or print the contents or the statements specified within the (“ “);
-
-4.
-main() is an entry point of a c program where execution starts and its called by the operating system when the user runs the program. It has a return type.
-In some cases it also has input parameters.
-
-5.
-Variables in c are the memory locations in which the value is assigned to the variable and hence value is stored in it.  “=” is the assignment operator which is used to assign the value to the variable.
-
-6.
-There are five basic data types in c:
-Int-integer type(positive no.s)
-float-(fractional part)
-double-(floating value)
-char-(single character)
-void(valueless)
-boolean(true or false)
-
-7.
-& operator is a bitwise operator which compares two inputs of binary numbers .Takes two numbers as operands and does AND on every bit of two numbers and the result of AND is 1 only if both bits are 1.
-
-8.
-%d is one of the format specifiers in c programming used to format input(scanf) and output(printf) as integer(positive numbers). 
-
-9.
-Compilation is a process which converts or transforms a higher level language(source) into a lower level language(target) and vice-versa. This process is done by the computer software called source-to-source compiler which translates the one language into another language.
-
-10.
-We must run the program using c compiler so that it can be executed by the computer.
-
-11.
-Syntax errors are the errors which occurs in the syntax of series of characters or tokens during the compilation of the program.
-There are so many syntax errors in c. To name a few:
-Missing parenthesis
-Missing semicolon
-Missing return type
-Missing of {  }
-Missing of else but ‘if’ is present
 
